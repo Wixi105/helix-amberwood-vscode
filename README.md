@@ -16,10 +16,10 @@ The Helix Editor Amberwood Theme is a visually harmonious and carefully crafted 
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Helix Editor Amberwood Theme`
+2. Search for `Helix Amberwood Theme`
 3. Click **Install** to install it.
 4. Click **Reload** to reload the editor.
-5. Code > Preferences > Color Theme > **Helix Editor Amberwood Theme**
+5. Code > Preferences > Color Theme > **Helix Amberwood Theme**
 
 ## Manual Installation
 
