@@ -3,6 +3,9 @@
   "displayName": "Helix Amberwood",
   "description": "",
   "version": "0.0.1",
+  "publisher": "EricJunior",
+  "repository": "https://github.com/Wixi105/helix-amberwood-vscode",
+  "keywords": ["Amberwood","Helix","Helix Amberwood", "Helix Editor"],
   "engines": {
     "vscode": "^1.92.0"
   },

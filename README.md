@@ -1,7 +1,5 @@
 # Helix Editor Amberwood Theme for VS Code
 
-![Theme Preview](images/Screenshot%202024-08-10%20at%2010.50.44 PM.png)
-
 ## Description
 
 The Helix Editor Amberwood Theme is a visually harmonious and carefully crafted color scheme for Visual Studio Code. Inspired by the Helix editor's aesthetics, this theme offers a seamless and pleasing visual experience across all areas of your VS Code interface.
