@@ -1,6 +1,6 @@
 # Helix Editor Amberwood Theme for VS Code
 
-![Theme Preview](https://imgur.com/a/JQnPY61)
+![Theme Preview](images/Screenshot%202024-08-10%20at%2010.50.44 PM.png)
 
 ## Description
 
